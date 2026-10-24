@@ -41,6 +41,6 @@ The tablet was on guest Wi-Fi, which did not provide access to the internal Inve
 ![ServiceNow resolution documentation](screenshots/ServiceNowResolvedTicket.png)
 
 ## 6. Lessons Learned
-Public internet access does not guarantee access to private company services. Verify the connected network, test the affected application, and confirm the fix with the requester.
+Public internet access does not guarantee access to private company services. I verified the connected network, tested the affected application, and confirmed the fix with the requester.
 
 
