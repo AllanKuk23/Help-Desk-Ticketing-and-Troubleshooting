@@ -37,4 +37,4 @@ The tablet was on guest Wi-Fi, which did not provide access to the internal Inve
 ## 6. Lessons Learned
 Public internet access does not guarantee access to private company services. Verify the connected network, test the affected application, and confirm the fix with the requester.
 
-*Simulated help desk scenario. ServiceNow was used for incident documentation; its final resolved state was not verified.*
+
