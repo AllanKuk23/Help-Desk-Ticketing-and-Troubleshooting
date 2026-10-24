@@ -4,7 +4,7 @@
 
 This project focuses on hands-on IT troubleshooting and help desk ticket management using SysDesks and ServiceNow.
 
-SysDesks provides simulated technical support scenarios, while ServiceNow is used alongside each troubleshooting scenario to practice creating, managing, documenting, and resolving help desk tickets.
+**SysDesks** provides simulated technical support scenarios, while **ServiceNow** is used alongside each troubleshooting scenario to practice creating, managing, documenting, and resolving help desk tickets.
 
 ## Tools & Technologies
 
@@ -23,4 +23,5 @@ SysDesks provides simulated technical support scenarios, while ServiceNow is use
 
 ## Troubleshooting Labs
 
-*Individual troubleshooting case studies and supporting screenshots will be added as labs are completed.*
+### [Lab 01 — Warehouse Tablet Connectivity](labs/01-warehouse-tablet-connectivity/README.md)
+Fixed a warehouse tablet's connection to an internal application by switching to the correct Wi-Fi network and verifying the fix.
