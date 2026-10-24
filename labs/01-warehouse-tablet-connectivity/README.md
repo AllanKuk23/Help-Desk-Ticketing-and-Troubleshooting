@@ -17,7 +17,7 @@ A warehouse tablet could browse public websites but could not reach the internal
 2. Opened the simulated tablet's Wi-Fi settings and found it connected to **Northline-Guest**.
 3. Switched the tablet to **Northline-Corp** which is used for the company's internal network. I retried Inventory Scan synchronization and made connection.
 
-![Tablet remote session during Wi-Fi investigation](screenshots/guest-wifi.png)
+<img src="screenshots/guest-wifi.png" alt="Tablet connected to guest Wi-Fi" width="650">
 
 **ServiceNow — Incident Investigation and Work Notes**
 
@@ -32,12 +32,11 @@ The tablet was on guest Wi-Fi, which did not provide access to the internal Inve
 - Managed profile remained present; requester confirmed the application worked.
 - **SysDesks incident resolved** with code *Solved Permanently*.
 
-![Inventory Scan restored on corporate Wi-Fi](screenshots/corporate-wifi-app-online.png)
+<img src="screenshots/corporate-wifi-app-online.png" alt="Inventory Scan restored on corporate Wi-Fi" width="650">
 
-![Successful application diagnostics](screenshots/network-diagnostics.png)
+<img src="screenshots/network-diagnostics.png" alt="Successful application diagnostics" width="650">
 
-![Requester confirmation](screenshots/requester-confirmation.png)
-
+<img src="screenshots/requester-confirmation.png" alt="Requester confirmation" width="750">
 ![ServiceNow resolution documentation](screenshots/ServiceNowResolvedTicket.png)
 
 ## 6. Lessons Learned
