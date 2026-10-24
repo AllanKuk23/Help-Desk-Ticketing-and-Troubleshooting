@@ -18,9 +18,11 @@ A warehouse tablet could browse public websites but could not reach the internal
 3. Switched the tablet to **Northline-Corp** which is used for the company's internal network. I retried Inventory Scan synchronization and made connection.
 
 ![Tablet remote session during Wi-Fi investigation](screenshots/guest-wifi.png)
-<br>
+
+**ServiceNow — Incident Investigation and Work Notes**
+
 ![ServiceNow incident and work notes](screenshots/ServiceNowTicket.png)
-<br>
+
 ## 4. Root Cause & Resolution
 The tablet was on guest Wi-Fi, which did not provide access to the internal Inventory Scan service. Connecting to corporate Wi-Fi restored service without removing device management.
 
@@ -35,6 +37,8 @@ The tablet was on guest Wi-Fi, which did not provide access to the internal Inve
 ![Successful application diagnostics](screenshots/network-diagnostics.png)
 
 ![Requester confirmation](screenshots/requester-confirmation.png)
+
+![ServiceNow resolution documentation](screenshots/ServiceNowResolvedTicket.png)
 
 ## 6. Lessons Learned
 Public internet access does not guarantee access to private company services. Verify the connected network, test the affected application, and confirm the fix with the requester.
