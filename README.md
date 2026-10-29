@@ -1,11 +1,16 @@
 
 # Help Desk Ticketing & Troubleshooting
 
+
 ## Project Overview
 
-This project focuses on hands-on IT troubleshooting and help desk ticket management using SysDesks and ServiceNow.
+I'm building this project to gain hands-on experience with IT support, troubleshooting, and ticketing systems as I work toward transitioning into an IT career.
 
-**SysDesks** provides simulated technical support scenarios, while **ServiceNow** is used to practice documenting and managing help desk incidents. Regular tickets follow the full incident workflow, while guided exercises may be documented afterward for additional ticketing practice.
+I use **SysDesks** to work through realistic Help Desk scenarios where I investigate technical issues, identify causes, apply solutions, and verify the results.
+
+I also use **ServiceNow** to practice incident management by manually creating matching practice tickets, categorizing and prioritizing incidents, assigning tickets, documenting troubleshooting steps, and recording updates.
+
+My goal is to become more familiar with how IT support teams manage incidents from the initial report through troubleshooting, verification, and resolution.
 
 ## Tools & Technologies
 
@@ -23,14 +28,13 @@ This project focuses on hands-on IT troubleshooting and help desk ticket managem
 5. Apply the fix and verify the results.
 6. Complete the documentation and record the resolution.
 
-*For guided exercises without a ticket, a separate ServiceNow practice incident may be created afterward to document the completed troubleshooting.*
-
 ## Hands-On Troubleshooting Labs
 
 ### [Lab 01 — Warehouse Tablet Connectivity](labs/01-warehouse-tablet-connectivity/README.md)
 
-Fixed a warehouse tablet's connection to an internal application by switching to the correct Wi-Fi network and verifying the fix.
+Resolved a warehouse tablet connection issue by switching to the correct Wi-Fi network and verifying the internal application was working again. Documented the issue and resolution using ServiceNow.
+
 
 ### [Lab 02 — Network Share Authentication Failure](labs/02-network-share-authentication/README.md)
 
-Troubleshoot a mapped network drive authentication issue, removed an outdated Windows credential, and verified access was restored. Created a separate ServiceNow practice incident to document the completed guided exercise.
+Fixed a network drive authentication issue by finding and removing an outdated saved Windows credential. Verified the shared drive was accessible again and created a separate ServiceNow practice incident to document the troubleshooting steps.
