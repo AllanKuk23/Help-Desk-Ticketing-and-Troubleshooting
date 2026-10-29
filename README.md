@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-I'm building this project to gain hands-on experience with IT support, troubleshooting, and ticketing systems as I work toward transitioning into an IT career.
+I'm working on these labs to gain hands-on experience with IT support, troubleshooting, and ticketing systems as I work toward transitioning into an IT career.
 
 I use **SysDesks** to work through realistic Help Desk scenarios where I investigate technical issues, identify causes, apply solutions, and verify the results.
 
